@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.unity.asset-store-tools": {
-      "version": "file:com.unity.asset-store-tools",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.cinemachine": {
       "version": "2.8.2",
       "depth": 0,
