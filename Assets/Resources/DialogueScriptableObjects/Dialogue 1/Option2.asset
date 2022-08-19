@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1436624d9d1de3c4c8a441b03267a10d, type: 3}
+  m_Name: Option2
+  m_EditorClassIdentifier: 
+  option: Sounds good
+  dialogues:
+  - What is the longest word in the English language?
+  - '"Smile", coz there is mile beetwen first and last letters!'
+  - It's funny right?
+  brancesDialogue:
+  - {fileID: 11400000, guid: 769c5e1b3f7042d4e881b204a21a37e7, type: 2}
